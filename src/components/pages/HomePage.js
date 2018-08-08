@@ -7,5 +7,5 @@ const HomePage = () => (
             <Link to="/login" > Login</Link>
         </div>
 );
- 
+// In the HomePage
 export default HomePage;
